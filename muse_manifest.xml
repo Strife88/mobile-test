@@ -1,8 +1,8 @@
-<manifest alg="2" build="2015.2.0.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="moble-test.com" resolutions="1x" timestamp="1482290637942">
+<manifest alg="2" build="2015.2.0.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="moble-test.com" resolutions="1x" timestamp="1482290995802">
   <folder name="css">
     <file name="site_global.css" crc="3916556066"/>
-    <file name="index.css" crc="357735868" ref="index"/>
-    <file name="nomq_index.css" crc="4244924926" ref="index"/>
+    <file name="index.css" crc="4128783354" ref="index"/>
+    <file name="nomq_index.css" crc="3958429213" ref="index"/>
     <file name="home-copy.css" crc="123046643" ref="home-copy"/>
     <file name="nomq_home-copy.css" crc="169236739" ref="home-copy"/>
   </folder>
@@ -22,6 +22,6 @@
     <file name="@768-u180.png" crc="514176680" ref="home-copy"/>
     <file name="@320.jpg" crc="4143461586" seo="true" ref="home-copy"/>
   </folder>
-  <file name="index.html" crc="520813459" seo="true" mt="1482290588488" redirect="true"/>
+  <file name="index.html" crc="393660343" seo="true" mt="1482290964929" redirect="true"/>
   <file name="home-copy.html" crc="153315979" seo="true" mt="1482290558646" redirect="true"/>
 </manifest>
